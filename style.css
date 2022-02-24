@@ -1,0 +1,28 @@
+body{
+    font-family: 'Paytone One', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Source Serif Pro', serif;
+}
+h1{
+    font-size: 50px;
+}
+ .brown-color{
+     color: brown;
+ }   
+    
+section{
+    display: flex; 
+
+}
+.half-width{
+    width: 50%;
+}
+.half-width img{
+    width:80% ;
+}
+.link-button{
+    text-decoration: none;
+    background-color: orange;
+    padding: 10px 40px;
+    border-radius:5px;
+}
