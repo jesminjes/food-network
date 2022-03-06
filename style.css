@@ -27,16 +27,52 @@ section{
     text-decoration: none;
     background-color: orange;
     padding: 10px 40px;
-    border-radius:5px;
+    border: radius 5px;
+    
+}
+.top-banner{
+    background-color: url(images/top-banner.png);
+    background-repeat: no-repeat;
 }
 .text-align{
     text-align: center;
     
 }
-.recepie-area{
-  padding: 5px;
-  width: 10px 20px ;
-}
-.box-shadow{
-    box-shadow: 10px 20px 100px white;
-}
+
+
+ .footer-image{
+     width: 300px;
+     height: 300px;
+    margin-right: 5%;
+    margin-left: 05%;
+    padding-left:10px;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 10px;
+      }  
+      .text1-align{
+          text-align: center;
+
+          
+      }
+ .footer-img{
+     width: 300px;
+     height: 300px;
+ } 
+ .flexible-container{
+     display: flex;
+     margin-bottom: 100px;
+     margin-left: 10px;
+ }
+ .footer-web{
+     background-color: black;
+     height: 350px;
+ }
+ .green-color{
+     color: rgb(168, 211, 168);
+ }
+ .gray-color{
+     color: gray;
+ }
+
+ 
+ 
