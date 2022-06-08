@@ -34,10 +34,6 @@ section{
     background-color: url(images/top-banner.png);
     background-repeat: no-repeat;
 }
-.text-align{
-    text-align: center;
-    
-}
 
 
  .footer-image{
@@ -49,29 +45,37 @@ section{
     box-shadow: 10px 10px 40px gray;
     border-radius: 10px;
       }  
-      .text1-align{
+ .text1-align{
           text-align: center;
-
-          
-      }
+         }
  .footer-img{
      width: 300px;
      height: 300px;
  } 
  .flexible-container{
+     margin-top: 100px;
+     margin-left: 30%;
      display: flex;
-     margin-bottom: 100px;
-     margin-left: 10px;
  }
- .footer-web{
-     background-color: black;
-     height: 350px;
+ 
+ .class-container{
+    width: 30%;
+    margin-left: 7%;
+    margin-right: 100px;
+    
  }
+ 
  .green-color{
      color: rgb(168, 211, 168);
  }
  .gray-color{
      color: gray;
+ }
+ .footer{
+     text-align: center;
+     padding-top:20px;
+     padding-bottom: 70px;
+     background-color: black;
  }
 
  
